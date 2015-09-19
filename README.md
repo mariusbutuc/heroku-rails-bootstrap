@@ -11,6 +11,7 @@
   - [x] separate gems into [Rails omakase vs project specific][omakase-specific]
   - [x] use [`quiet_assets`][quiet-assets] to turn off the Rails asset pipeline log in development
   - [x] make development more REPL, with `pry-rails`
+  - [x] speed up prototyping with `bootstrap-sass`
 
   [pg-default-db]: https://github.com/mariusbutuc/heroku-ready-rails-bootstrap/blob/e81e121/Gemfile#L7
   [gitignore-gh]: https://github.com/mariusbutuc/heroku-ready-rails-bootstrap/blob/e81e121/.gitignore#L15-L21
