@@ -14,6 +14,7 @@ gem 'sdoc',                             '~> 0.4.0', group: :doc
 
 # Project specific gems
 gem 'bootstrap-sass',                   '~> 3.3.5'
+gem 'figaro'
 gem 'puma'
 
 group :development, :test do
