@@ -1,4 +1,4 @@
-# Heroku-ready Rails bootstrap
+# Heroku-ready Rails bootstrap [![Build Status][travis-status]][travis-repo]
 
 ## Heroku specific
   - [x] use the [Postgres][pg-default-db] database
@@ -20,3 +20,5 @@
   [rails-12factor]: https://github.com/heroku/rails_12factor
   [puma-for-server]: https://devcenter.heroku.com/articles/getting-started-with-rails4#webserver
   [quiet-assets]: https://github.com/evrone/quiet_assets
+  [travis-repo]: https://travis-ci.org/mariusbutuc/heroku-ready-rails-bootstrap
+  [travis-status]: https://travis-ci.org/mariusbutuc/heroku-ready-rails-bootstrap.svg
