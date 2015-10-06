@@ -15,6 +15,7 @@ gem 'sdoc',                             '~> 0.4.0', group: :doc
 # Project specific gems
 gem 'bootstrap-sass',                   '~> 3.3.5'
 gem 'figaro'
+gem 'foreman'
 gem 'frozen_record',                    '~> 0.4.0'
 gem 'puma'
 
