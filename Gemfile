@@ -21,6 +21,7 @@ gem 'puma'
 
 group :development, :test do
   gem 'byebug'
+  gem 'pry-byebug'
   gem 'pry-rails'
 end
 
